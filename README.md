@@ -10,7 +10,7 @@ For an example of how these Docker images should be used, take a look at my [Git
 
 ## PHP-FPM
 
-As a platform for serving your project, there are three versions of PHP-FPM
+As a platform for serving your project:
 
 _master (latest)_ version 7 with support for MySQL
 
@@ -30,8 +30,6 @@ The toolchain is an extension of PHP-FPM designed to be used as a shell. It does
 * Phing
 * gulpJS task runner
 * bower
-
-There are also three versions of the toolchain depending on which version of PHP-FPM you are using
 
 _toolchain_ To be used with master(latest)
 
